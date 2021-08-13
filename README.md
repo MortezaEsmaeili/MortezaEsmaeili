@@ -1,0 +1,3 @@
+
+I am a hard-working professional who has been consistently praised as adaptable by my co-workers and management. Over the course of my 15-year career, I've developed a skill set directly relevant to the software development role, including, Flutter, SQL Server, C# and .Net Core. In recent years I have found my old penchant for embedded devices programming in Flutter. My intense interest in Android and Flutter led me to pursue serious and international challenges in this area.
+ Overall, I have consistently demonstrated teamwork, technical and communication abilities in every aspect of my career.
